@@ -12,3 +12,14 @@ The goal is to create a clean, modern, and responsive design that reflects both 
 - Featured projects with GitHub/demo links
 - Smooth animations with Framer Motion
 - Contact section with direct links
+
+## Preview
+
+![Homepage](src/assets/Home-Page.png)
+![About Me](src/assets/About-Me.png)
+![Skills Section](src/assets/My-Skills.png)
+![Projects Section](src/assets/Projects.png)
+![Get In Touch](src/assets/Contact-Info.png)
+
+## Live Demo
+[Click here to view the website](https://portfolio-beta-five-zlk4pkv34x.vercel.app/)
