@@ -28,8 +28,8 @@ const projects = [
       "VaultValue is an intelligent inventory management system that focuses on real-time inventory tracking, low-stock alerts, and ML-based demand prediction o help businesses maintain optimal stock levels and prevent out-of-stock situations.",
     image: "/projects/Project-3.png",
     tags: ["HTML/CSS", "Node.js", "MySQL", "Python"],
-    demoUrl: "https://github.com/vaishk984/Safe-Keep.git",
-    githubUrl: "https://github.com/vaishk984/Safe-Keep.git",
+    demoUrl: "https://github.com/vaishk984/VaultValue.git",
+    githubUrl: "https://github.com/vaishk984/VaultValue.git",
   },
 ];
 
