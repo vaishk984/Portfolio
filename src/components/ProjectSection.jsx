@@ -21,6 +21,16 @@ const projects = [
     demoUrl: "https://github.com/vaishk984/Safe-Keep.git",
     githubUrl: "https://github.com/vaishk984/Safe-Keep.git",
   },
+  {
+    id: 3,
+    title: "VaultValue",
+    description:
+      "VaultValue is an intelligent inventory management system that focuses on real-time inventory tracking, low-stock alerts, and ML-based demand prediction o help businesses maintain optimal stock levels and prevent out-of-stock situations.",
+    image: "/projects/Project-3.png",
+    tags: ["HTML/CSS", "Node.js", "MySQL", "Python"],
+    demoUrl: "https://github.com/vaishk984/Safe-Keep.git",
+    githubUrl: "https://github.com/vaishk984/Safe-Keep.git",
+  },
 ];
 
 export const ProjectSection = () => {
