@@ -1,4 +1,4 @@
-# Vaishnavi Kumari - Portfolio
+# Kumari Vaishnavi - Portfolio
 A personal portfolio website built with React, TailwindCSS, and modern web tools to showcase my projects, skills, and achievements.
 
 ## About
